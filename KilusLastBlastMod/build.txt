@@ -1,0 +1,3 @@
+displayName = LastBlasts
+author = Kilu
+version = 0.1
